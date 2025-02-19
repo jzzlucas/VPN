@@ -37,4 +37,4 @@
 
 ---
 
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQFo_beunr8Qqg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1723554349531?e=1734566400&v=beta&t=gGuDEEzvJbW00R14HjhmCRSxKlIoHreDaKtdR1OI4xI" alt="VPN">
+<img src="https://i.makeagif.com/media/10-12-2020/vYl0Qi.gif" alt="VPN">
